@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, NextJS, Javascript, Typescript, Express**
 
-- 👨‍💻 All of my projects are available at <a href="https://sergioej.dev/" target="_blank">sergioej.dev</a>
+- 👨‍💻 All of my projects are available at <a href="https://sergioej.dev/" target="_blank" rel="noopener noreferrer">sergioej.dev</a>
 
 - 📫 How to reach me **sergio3597@gmail.com**
 

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, NextJS, Javascript, Typescript, Express**
 
-- 👨‍💻 All of my projects are available at [github.com/sergio-prgm](github.com/sergio-prgm)
+- 👨‍💻 All of my projects are available at [sergioej.dev](sergioej.dev)
 
 - 📫 How to reach me **sergio3597@gmail.com**
 
